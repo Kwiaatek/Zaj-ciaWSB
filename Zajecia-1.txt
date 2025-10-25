@@ -1,2 +1,4 @@
 Tak to plik z 1-wszych zajęć 25.10.2025
-1 commit
+1 commit'
+
+Jeszcze na potwierdzenie dodaje to i to jest już 3 commit
