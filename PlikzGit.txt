@@ -4,3 +4,5 @@ testy normalnie konfliktu z lokala
 
 Teraz sprawdzamy czy z weba konflikt normalnie 
 
+
+sprawdzamy jak to jest na innym branchu i co się kurde ten normalnie
