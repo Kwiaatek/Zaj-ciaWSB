@@ -1,1 +1,3 @@
 testy czy pull dziala co nie tego ten 
+
+Teraz sprawdzamy czy z weba konflikt normalnie 
