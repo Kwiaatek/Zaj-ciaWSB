@@ -1,4 +1,6 @@
 testy czy pull dziala co nie tego ten 
 
-
 testy normalnie konfliktu z lokala
+
+Teraz sprawdzamy czy z weba konflikt normalnie 
+
