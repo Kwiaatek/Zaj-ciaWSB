@@ -1,0 +1,49 @@
+inspiracje.txt
+
+i. Inspiracje (słowa, skojarzenia, pomysły)
+- organizacja, porządek, koncentracja
+- proste UI, minimalizm, szybkie interakcje
+- plan tygodniowy, priorytety, przypomnienia
+- micro-tasks, blok czasowy (time-blocking), przegląd tygodnia
+- motywacja, feedback, postęp, nagrody (małe cele)
+- mobilność, dostępność offline, synchronizacja
+- integracja z kalendarzem, eksport/import zadań
+- tematyki studenckie: zajęcia, projekty, egzaminy, powtórki
+
+ii. Krótka lista elementów projektu
+- ekran główny: lista zadań dziennych i tygodniowy skrót
+- moduł dodawania/edycji zadania (tytuł, opis, kategoria, termin, priorytet)
+- widok tygodniowy (przeciąganie/zamiana dni)
+- prosty system statystyk: wykonane zadania, procent realizacji, wykres tygodniowy
+- filtrowanie i sortowanie (kategoria, termin, priorytet)
+- powiadomienia lokalne/przypomnienia
+- konfiguracja konta użytkownika / profil (opcjonalnie)
+- ustawienia powtórek i cyklicznych zadań
+
+iii. Wstępne dane wejściowe (lista kategorii, lista funkcji)
+- Kategorie (przykładowo):
+    - Wykłady, Ćwiczenia, Laboratoria, Projekty, Egzaminy, Powtórki, Administracja
+- Lista funkcji:
+    - Dodaj zadanie: {tytuł, opis, kategoria, termin, priorytet, powiadomienie}
+    - Edytuj/usuwaj zadanie
+    - Oznacz jako wykonane / cofnięcie
+    - Przeciągnij zadanie do innego dnia w widoku tygodniowym
+    - Widok statystyk tygodniowych i miesięcznych
+    - Eksport/import CSV
+    - Tryb skupienia (skrócenie listy do najważniejszych zadań)
+
+iv. Lista źródeł pomysłu
+- własna potrzeba: łatwiejsze planowanie nauki podczas semestru
+- znajomy/koledzy: prośby o prostą aplikację zamiast rozbudowanych plannerów
+- obserwacja problemów: przeciążenie informacjami, brak codziennej rutyny
+- inspiracja istniejącymi narzędziami (prosty Trello, lista zadań) — uproszczenie dla studentów
+
+Opis projektu (istniejący)
+Aplikacja wspierająca studentów w planowaniu nauki. Rozwiązuje brak struktury i przeciążenie informacjami, oferując prosty system organizacji zadań. Główne funkcje: lista zadań, tygodniowy kalendarz i podstawowe statystyki postępów. Odbiorcy: studenci 18–25 lat, którzy chcą lepiej zarządzać zadaniami i czasem.
+
+Krótka lista dalszych pomysłów rozwoju
+- tryb współpracy (dzielenie zadań w grupie projektowej)
+- motywacyjne przypomnienia i osiągnięcia
+- analiza czasu poświęconego na kategorie
+- integracja z uczelnianym systemem zajęć (import planu)
+- prototypy UI: minimalny, ciemny motyw, szybkie akcje gestami

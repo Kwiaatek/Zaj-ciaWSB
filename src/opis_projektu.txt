@@ -1,0 +1,4 @@
+Aplikacja wspierająca studentów w planowaniu nauki. Rozwiązuje brak struktury i przeciążenie informacjami,
+ oferując prosty system organizacji zadań.
+  Główne funkcje: lista zadań, tygodniowy kalendarz i podstawowe statystyki postępów.
+   Odbiorcy: studenci 18–25 lat, którzy chcą lepiej zarządzać zadaniami i czasem.

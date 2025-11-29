@@ -1,0 +1,46 @@
++-------------------------------------------------------------+
+| Diagram przypadków użycia - Aplikacja do planowania nauki   |
+| Odbiorcy: studenci 18-25                                     |
++-------------------------------------------------------------+
+
+               ( Student )
+                  /|\
+                   |
+                   |
+    ---------------------------------------------------------
+    |                       System                         |
+    |                                                       |
+    |    ( Zarządzaj listą zadań )                          |
+    |            /|\                                        |
+    |             |   <- includes: ( Dodaj zadanie )        |
+    |             |               ( Edytuj zadanie )        |
+    |             |               ( Usuń zadanie )          |
+    |             |               ( Ustal priorytet/termin) |
+    |                                                       |
+    |    ( Przeglądaj tygodniowy kalendarz )                |
+    |            /|\                                        |
+    |             |   <- includes: ( Przypisz zadanie do dnia) 
+    |             |               ( Oznacz jako wykonane )  |
+    |                                                       |
+    |    ( Podstawowe statystyki postępów )                 |
+    |            /|\                                        |
+    |             |   <- uses: (Zlicz wykonane zadania)     |
+    |                                                       |
+    |    ( Powiadomienia / przypomnienia )                  |
+    |                                                       |
+    |    ( Zarządzaj profilem / ustawienia )                |
+    |                                                       |
+    ---------------------------------------------------------
+                   |                 |
+                   |                 |
+            [Przeglądaj]         [Modyfikuj]
+                   |                 |
+                 /   \             /   \
+               Kliknij  Przeciągnij  Wybierz
+                   
+Legenda:
+- Actor: ( Student )
+- Use case: ( … )
+- "includes" / "uses" pokazane przy powiązaniach wewnątrz systemu
+- Główne funkcje: Zarządzaj listą zadań, Przeglądaj tygodniowy kalendarz,
+  Podstawowe statystyki postępów (zgodnie z opisem projektu)
